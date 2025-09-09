@@ -20,20 +20,26 @@ This project includes sample requests and **automated test cases** to validate t
 
 - ```Clone the project``` [] https://github.com/khundakerfaisal/NTechEmployeeInfoColl
 - ```Hit the following command to Generate report```
-```bash
-npm init -y
-```
-```bash
-npm i newman
-```
-```bash
-npx newman run [Collection]
-```
-```bash
-npm i newman-reporter-htmlextra
-```
-```bash
-node .\report.js
-```
+  ```bash
+  npm init -y
+  ```
+  ```bash
+  npm i newman
+  ```
+  ```bash
+  npx newman run [Collection]
+  ```
+  ```bash
+  npm i newman-reporter-htmlextra
+  ```
+  ```bash
+  node .\report.js
+  ```
+## Newman Report
+  <img width="905" height="925" alt="image" src="https://github.com/user-attachments/assets/185116ca-c0b2-4c39-bb0c-3e1bbfc3fe19" />
+  <img width="909" height="608" alt="image" src="https://github.com/user-attachments/assets/5bd33400-9bb9-47b4-9d8c-26f397ca7194" />
+
+  
+
 
 
