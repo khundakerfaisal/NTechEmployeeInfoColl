@@ -1,8 +1,8 @@
 ## Employee Info API Automation
 ## Prerequisite
--Postman
--Nodejs
--Visual studio code editor
+- Postman
+- Nodejs
+- Visual studio code editor
 
 ## About This Project
 
