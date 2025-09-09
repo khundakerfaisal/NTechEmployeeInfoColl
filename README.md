@@ -18,7 +18,7 @@ This project includes sample requests and **automated test cases** to validate t
 
 ## Installation
 
-- ```Clone the project``` [] https://github.com/khundakerfaisal/NTechEmployeeInfoColl
+- ```Clone the project``` [Employee Collection](https://github.com/khundakerfaisal/NTechEmployeeInfoColl)
 - ```Hit the following command to Generate report```
   ```bash
   npm init -y
