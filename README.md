@@ -16,6 +16,10 @@ The API allows you to:
 
 This project includes sample requests and **automated test cases** to validate the API functionality using Postman.  
 
+## API Documentation 
+  ```bash
+      https://documenter.getpostman.com/view/25113210/2sB3HnKf8e
+```
 ## Installation
 
 - ```Clone the project``` [Employee Collection](https://github.com/khundakerfaisal/NTechEmployeeInfoColl)
